@@ -1,0 +1,10 @@
+C:\Users\Ephafrus\Desktop\Assessment 01\IWUM-3\IWUM-3\bin\Debug\IWUM-3.exe.config
+C:\Users\Ephafrus\Desktop\Assessment 01\IWUM-3\IWUM-3\bin\Debug\IWUM-3.exe
+C:\Users\Ephafrus\Desktop\Assessment 01\IWUM-3\IWUM-3\bin\Debug\IWUM-3.pdb
+C:\Users\Ephafrus\Desktop\Assessment 01\IWUM-3\IWUM-3\obj\Debug\IWUM-3.csprojAssemblyReference.cache
+C:\Users\Ephafrus\Desktop\Assessment 01\IWUM-3\IWUM-3\obj\Debug\IWUM_3.Form1.resources
+C:\Users\Ephafrus\Desktop\Assessment 01\IWUM-3\IWUM-3\obj\Debug\IWUM_3.Properties.Resources.resources
+C:\Users\Ephafrus\Desktop\Assessment 01\IWUM-3\IWUM-3\obj\Debug\IWUM-3.csproj.GenerateResource.cache
+C:\Users\Ephafrus\Desktop\Assessment 01\IWUM-3\IWUM-3\obj\Debug\IWUM-3.csproj.CoreCompileInputs.cache
+C:\Users\Ephafrus\Desktop\Assessment 01\IWUM-3\IWUM-3\obj\Debug\IWUM-3.exe
+C:\Users\Ephafrus\Desktop\Assessment 01\IWUM-3\IWUM-3\obj\Debug\IWUM-3.pdb
